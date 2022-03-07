@@ -1,3 +1,4 @@
+/* app.js, Jiu Qiang Xu, 301209220, COMP229-F2020-MidTerm-301209220*/
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');

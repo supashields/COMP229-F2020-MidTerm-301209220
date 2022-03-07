@@ -1,3 +1,4 @@
+/* books.js, Jiu Qiang Xu, 301209220, COMP229-F2020-MidTerm-301209220*/
 let mongoose = require('mongoose');
 
 // create a model class

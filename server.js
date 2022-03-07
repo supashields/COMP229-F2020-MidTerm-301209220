@@ -1,3 +1,4 @@
+/* server.js, Jiu Qiang Xu, 301209220, COMP229-F2020-MidTerm-301209220*/
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
